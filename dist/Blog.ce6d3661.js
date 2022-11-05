@@ -1,1 +1,0 @@
-import{g as a,i,c as s,s as n,t as o}from"./chunks/web.f122b44b.js";const d=o('<div><h3 class="text-2xl font-medium text-gray-800" style="padding-bottom: 10px"><a target="_blank"></a></h3></div>');function m(t){return(()=>{const e=a(d),l=e.firstChild,r=l.firstChild;return i(r,()=>t.title),s(()=>n(r,"href",t.url)),e})()}export{m as Blog};
