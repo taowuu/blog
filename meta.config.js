@@ -1,6 +1,6 @@
 export default {
   name: "Taowuu",
-  skills: ['js'],
+  skills: ['JavaScript'],
   blogs: [
     {
       title: '111',
