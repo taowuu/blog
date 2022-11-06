@@ -11,5 +11,4 @@ export default {
       url: 'http://qq.com'
     },
   ]
-  // blogs: ['111', '222']
 };
