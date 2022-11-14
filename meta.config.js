@@ -21,7 +21,7 @@ export default {
       url: 'https://github.com/taowuu/tao-write'
     },
     {
-      title: 'Taowuu 的前端样式布局大集合',
+      title: 'Taowuu 的前端布局大集合',
       url: 'https://github.com/taowuu/tao-layout'
     },
     {
