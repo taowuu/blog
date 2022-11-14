@@ -13,6 +13,23 @@ export default {
   ],
   blogs: [
     {
+      title: 'Taowuu 的前端随想录',
+      url: 'https://github.com/taowuu/tao-blog'
+    },
+    {
+      title: 'Taowuu 的前端手写大集合',
+      url: 'https://github.com/taowuu/tao-write'
+    },
+    {
+      title: 'Taowuu 的前端样式布局大集合',
+      url: 'https://github.com/taowuu/tao-layout'
+    },
+    {
+      title: 'Taowuu 的前端面试攻略',
+      url: 'https://github.com/taowuu/fe-interview'
+    },
+    // 
+    {
       title: 'Taowuu 的 JavaScript 全解',
       url: 'https://github.com/taowuu/tao-javascript'
     },
@@ -36,22 +53,7 @@ export default {
       title: 'Taowuu 的 LeetCode 题解',
       url: 'https://github.com/taowuu/tao-leetcode'
     },
-    {
-      title: 'Taowuu 的前端随想录',
-      url: 'https://github.com/taowuu/tao-blog'
-    },
-    {
-      title: 'Taowuu 的前端手写大集合',
-      url: 'https://github.com/taowuu/tao-write'
-    },
-    {
-      title: 'Taowuu 的前端样式布局大集合',
-      url: 'https://github.com/taowuu/tao-layout'
-    },
-    {
-      title: 'Taowuu 的前端面试攻略',
-      url: 'https://github.com/taowuu/fe-interview'
-    },
+    // 
     {
       title: '一步步实现 mini Vue',
       url: 'https://github.com/taowuu/tao-mini-vue'
