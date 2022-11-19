@@ -1,9 +1,9 @@
 export function Blog(props) {
     return (
         <div>
-            <h3 class="text-2xl font-medium text-blue-500" style="padding-bottom: 13px">
+            <h5 class="text-2xl font-medium text-blue-500" style="padding-top: 15px">
                 <a href={props.url} target="_blank">{props.title}</a>
-            </h3>
+            </h5>
         </div>
     );
   }

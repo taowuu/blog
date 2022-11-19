@@ -13,6 +13,10 @@ export default {
   ],
   blogs: [
     {
+      title: '拥有自己的 mini Vue',
+      url: 'https://github.com/taowuu/mini-vue'
+    },
+    {
       title: 'Taowuu 的前端随想录',
       url: 'https://github.com/taowuu/tao-blog'
     },
